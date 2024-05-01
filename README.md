@@ -6,16 +6,22 @@
 
 Μπορεί να χρησιμοποιηθεί τόσο κατά τη διδασκαλία όσο και στο πλαίσιο αντεστραμμένης τάξης.
 
+
 Ο πόρος αναπτύχθηκε με το σύστημα συγγραφής λογισμικού ανοικτού κώδικα (open source) h5p:
 
 [https://h5p.org/](https://h5p.org/)
+
 [https://app.lumi.education/](https://app.lumi.education/)
 
+
 Είναι άμεσα διαθέσιμος μέσω του αποθετηρίου “Φωτόδεντρο”:
+
 [https://photodentro.edu.gr/ugc/r/8525/2947](https://photodentro.edu.gr/ugc/r/8525/2947)
+
 
 Ο κυρίως φάκελος περιέχει το αρχείο που παράγει το σύστημα συγγραφής. Περιέχονται δύο υποφάκελοι:
 -   html, που περιλαμβάνει τον πόρο σε μορφή που μπορεί να ενσωματωθεί σε οποιονδήποτε διακομιστή υπερμέσων (web server)
 -   scorm, που περιέχει τον πόρο σε μορφή που μπορεί να χρησιμοποιηθεί σε οποιοδήποτε σύστημα διαχείρισης μάθησης (LMS - Learning Management System) που υποστηρίζει το πρότυπο SCORM, π.χ. e-class, moodle κ.α.
+
 
 Ο πόρος διατίθεται με άδεια Creative Commons, [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0) (CC BY-NC-SA 4.0).
